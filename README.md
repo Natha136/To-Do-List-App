@@ -82,7 +82,7 @@ app
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/to-do-list.git
+git clone [https://github.com/your-username/to-do-list.git](https://github.com/Natha136/To-Do-List-App.git)
 ```
 
 2. Open the project in Android Studio.
