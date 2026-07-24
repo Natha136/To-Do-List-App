@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_200">#AFCBFF</color>
+    <color name="purple_500">#FADADD</color>
+    <color name="purple_700">#F8C8DC</color>
+
+    <color name="teal_200">#B8E0D2</color>
+    <color name="teal_700">#8FD3C7</color>
+
+    <color name="background">#FFF9F5</color>
+
+    <color name="card">#FFFFFF</color>
+
+    <color name="search">#EAF7F0</color>
+
+    <color name="sort">#FFE5B4</color>
+
+    <color name="text">#4A4A4A</color>
+
+    <color name="pastel1">#FFF9E8</color>
+
+    <color name="pastel2">#FDECEF</color>
+
+    <color name="pastel3">#E8F8F5</color>
+
+    <color name="pastel4">#EEF2FF</color>
+
+    <color name="pastel5">#FFF4E6</color>
+
+    <color name="pastelPink">#FFF6F9</color>
+
+    <color name="pastelBlue">#EAF6FF</color>
+
+    <color name="pastelYellow">#FFF8DC</color>
+
+    <color name="pastelGreen">#E8F5E9</color>
+
+    <color name="pastelPurple">#F3E8FF</color>
+</resources>

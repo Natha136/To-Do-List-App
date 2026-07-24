@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Lingkaran pastel -->
+    <path
+        android:fillColor="#F8D7E8"
+        android:pathData="M60,8
+                          A52,52 0 1,1 59.9,8Z"/>
+
+    <!-- Kertas -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,28
+                          H85
+                          A4,4 0 0,1 89,32
+                          V88
+                          A4,4 0 0,1 85,92
+                          H35
+                          A4,4 0 0,1 31,88
+                          V32
+                          A4,4 0 0,1 35,28Z"/>
+
+    <!-- Garis -->
+    <path
+        android:fillColor="#CFCFCF"
+        android:pathData="M42,42H78V45H42Z"/>
+
+    <path
+        android:fillColor="#CFCFCF"
+        android:pathData="M42,56H78V59H42Z"/>
+
+    <path
+        android:fillColor="#CFCFCF"
+        android:pathData="M42,70H78V73H42Z"/>
+
+    <!-- Checklist -->
+    <path
+        android:fillColor="#8FD3C7"
+        android:pathData="M46,58
+                          L52,64
+                          L65,50
+                          L68,53
+                          L52,69
+                          L43,60Z"/>
+</vector>

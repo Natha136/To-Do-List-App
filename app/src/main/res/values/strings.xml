@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+
+    <string-array name="activity_type">
+
+        <item>Kuliah</item>
+
+        <item>Tugas</item>
+
+        <item>Organisasi</item>
+
+        <item>Kerja</item>
+
+        <item>Pribadi</item>
+
+        <item>Lainnya</item>
+
+    </string-array>
+
+    <string name="delete_title">Hapus To-Do</string>
+    <string name="delete_message">Apakah kamu yakin ingin menghapus tugas ini?</string>
+
+    <string name="complete_title">Tandai Selesai</string>
+    <string name="complete_message">Tugas ini akan ditandai sebagai selesai.</string>
+
+    <string name="yes">Ya</string>
+    <string name="cancel">Batal</string>
+
+</resources>
